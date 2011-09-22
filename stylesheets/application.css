@@ -44,3 +44,5 @@ div.journal div.wiki div.syntaxhighlighter {
 
 a.issue { font-weight: bold; }
 a.issue.closed, a.issue.closed:link, a.issue.closed:visited { font-weight: normal; text-decoration: line-through; color: #888; }
+
+#relations table.issues td { border: 0 none; }
